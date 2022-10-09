@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilyfred
-- 👀 I’m interested in web develping..
+- 👀 I’m interested in web developing..
 - 🌱 I’m currently learning phyton..
-- 💞️ I’m looking to collaborate on with programmer and develper....
+- 💞️ I’m looking to collaborate on with programmer and other developers....
 - 📫 How to reach me ...
 
 <!---
